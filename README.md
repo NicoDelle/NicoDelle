@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<ul>
+  <li>I'm currently studing CS Engineering at PoliMi, Italy</li>
+  <li>I have a fair grasp on programming in Python and I'm learning C</li>
+</ul>
