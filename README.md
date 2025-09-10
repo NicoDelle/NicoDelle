@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 <ul>
   <li>I'm currently studing CS Engineering at PoliMi, Italy</li>
   <li>I have a fair grasp on programming in Python C. I also know a little about CUDA</li>
+  <li>My current interests are Deep Reinforcment Learning for robotics, CUDA programming and AI</li>
 </ul>
