@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <ul>
-  <li>I'm currently studing CS Engineering at PoliMi, Italy</li>
-  <li>I have a fair grasp on programming in Python, C and Java. I also know a little about CUDA and I'm practicing C++</li>
-  <li>My current interests are Deep Reinforcment Learning for robotics, scientific computing, CUDA programming and AI</li>
+  <li>I know Python, C, C++ and Java</li>
+  <li>My current interests are physical AI and Autonomous Robotics</li>
+  <li>I have done some independent research on Human-Robot Interaction, published at ICRA as a poster. Check the repo (asimovBM) out for the details</li>
+  <li>I have been part of the ARGO (former spotmicro-ai) project at AEA PoliMi, now gone competitive</li>
 </ul>
